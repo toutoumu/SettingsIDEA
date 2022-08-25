@@ -4,9 +4,7 @@
       <map>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.markskelton.one-dark-theme">
@@ -17,7 +15,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
