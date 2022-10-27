@@ -236,6 +236,11 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt j" />
